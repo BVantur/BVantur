@@ -10,8 +10,13 @@ I am Blaž Vantur, an experienced Android developer of 12 years with some experi
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/0" alt="Recent Article 0"> 
 
-# CONTACTS:
-<a target="_blank" href="https://www.linkedin.com/in/bla%C5%BE-vantur-9aa466a0/"><img src="images/linkedin-icon.png" alt="Recent Article 0"> 
+# SOCIALS:
+<a target="_blank" href="https://www.linkedin.com/in/bla%C5%BE-vantur-9aa466a0/">
+	<img src="images/linkedin-icon.png" alt="Recent Article 0" width="64" height="64"> 
+</a>
+<a href="https://medium.com/@bvantur">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Medium" width="64" height="64">
+</a>
 
 
 ### I AM OPEN TO WORK, SO CONTACT ME IF YOU WANT TO COLLABORATE

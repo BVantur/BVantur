@@ -13,6 +13,6 @@ jobs:
       - name: Update README with latest Medium articles
         uses: dev.to/github-readme-medium@v2
         with:
-          username: @bvantur
+          username: bvantur
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

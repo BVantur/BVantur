@@ -7,14 +7,25 @@ I am Blaž Vantur, an experienced Android developer of 12 years with some experi
 
 
 # MEDIUM ARTICLES
+<div style="width: 100%; text-align: center;">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/0" alt="Recent Article 0" style="width: 100%; display: block; margin: 0 auto;">
+</a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/1">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/1" alt="Recent Article 1" style="width: 100%; display: block; margin: 0 auto;">
+</a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/2">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/2" alt="Recent Article 2" style="width: 100%; display: block; margin: 0 auto;">
+</a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/3" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/3">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@bvantur/3" alt="Recent Article 3" style="width: 100%; display: block; margin: 0 auto;">
+</a>
+
+</div>
 
 # SOCIALS:
 <a target="_blank" href="https://www.linkedin.com/in/bla%C5%BE-vantur-9aa466a0/">

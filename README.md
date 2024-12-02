@@ -39,4 +39,6 @@ I am Blaž Vantur, an experienced Android developer of 12 years with some experi
 ## Sponsor my work
 <a href="https://buymeacoffee.com/bvantur" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+Thank you for any contributions. 🙌🙌
+
 ### I AM OPEN TO WORK, SO CONTACT ME IF YOU WANT TO COLLABORATE
